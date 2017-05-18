@@ -1,7 +1,7 @@
 DeepDive for Chinese
 ==========
 
-To change the stanford parser for Chinese, please copy this dir to udf/bazaar/.
+To change the stanford parser for Chinese, please copy parser dir to udf/bazaar/.
 
 Then, download stanford-srparser-2014-10-23-models.jar and stanford-chinese-corenlp-2016-01-19-models.jar from stanford NLP website and put them under udf/bazzar/parser/lib/.
 
